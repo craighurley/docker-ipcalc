@@ -18,4 +18,4 @@ alias ipcalc='docker run --rm -it craighurley/ipcalc'
 
 ## Links
 
-- <http://jodies.de/ipcalc>
+-  <http://jodies.de/ipcalc>
